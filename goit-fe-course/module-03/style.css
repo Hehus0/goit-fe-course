@@ -1,27 +1,47 @@
 *{
-    margin: 0;  
+    outline: 1px solid red;
+    margin: 0;
 }
 
-.whater{
+.link{
+    display: inline-block;
+    
+
+}
+a{
     font-size: 14pt;
-    color: rgb(53, 169, 236);
-    margin-left: 313px;
-    margin-top: 77px;
-}
-.normal{
-    margin-left: 505px;
-    margin-top: -19px;
-}
-
-.one{
-    margin-top: 191px;
-    margin-left: 150px;
+    color: rgba(98, 98, 98, 255);
+    text-align: center;
+    margin-right: 121px;
     
 }
-.two{
-    margin-bottom: 1608px;
-    margin-left: 630px;
+
+nav{
+    text-align: center;
+    margin-bottom: 103px;
 }
-.lefting{
-    margin-left: 151px;
+
+section{
+    margin-right: 60px;
+    display: inline-block;
+    width: 480px;
+}
+article{
+    text-align: center;
+    
+}
+.life{
+    font-size: 14pt;
+    color: rgba(180, 173, 158, 255);
+    text-align: left;
+}
+.head{
+    font-size: 30pt;
+    color: rgba(98, 98, 98, 255);
+    text-align: left;
+}
+.text{
+    font-size: 14pt;
+    text-align: left;
+    color: rgba(98, 98, 98, 255);
 }
