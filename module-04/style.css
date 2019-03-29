@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    /* outline: 1px solid red; */
+   
+}
+
+h6{
+    font-size: 30px;
+    color: rgba(26, 188, 156, 255);
+    text-align: right;
+    
+}
+
+.head{
+    font-family: Arial, Helvetica, sans-serif; 
+    display: inline-block;
+    font-size: 30px;
+    float: left;
+    text-align: left;
+
+}
+
+
+.h{
+    font-family: Arial, Helvetica, sans-serif; 
+    display: inline-block;
+    font-size: 14px;
+    float: right;
+    text-align: right;
+}
+#h6{
+    font-size: 14px;
+    color: rgba(26, 188, 156, 255);
+    text-align: right;
+    float: right;
+  
+}
+.content{
+    width: auto;
+    
+    
+}
+.frog{
+    float: left;
+    text-align: left;
+}
+.wolf{
+    display: block;
+max-width: 100%;
+height: auto;
+
+}
+.titl{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 47px;
+    color: rgba(81, 81, 81, 255);
+    text-align: center;
+    width: auto;
+    border-bottom: 7px  solid rgb(0, 170, 113);
+    padding-bottom: 35px;
+    
+   
+}
+.texter{
+    margin-top: 111px;
+    /* position: absolute; */
+    margin: auto;
+    width:477px;
+}
+
+article{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+   
+}
+section{
+    background-image: url(./Rectangle\ 50@1X.png);
+    width: 255px;
+    height: 322px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    margin-left: 30px;
+    
+    margin-top: 183px;
+    
+}
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 255px;
+    height: 322px;
+}
+.box{
+    width: 200px;
+    height: 40px;
+    /* background-color: black; */
+    background-image: url(./Rectangle\ 51@1X.png);
+}
+.container{
+    width: 54px;
+    height: 40px;
+    background-color: grey;
+    float: right;
+    /* background-image: url(./Rectangle\ 52@1X.png); */
+    z-index: 100;
+   
+}
+.textBox{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 255);
+    text-align: left;
+    width: 106px;
+    z-index: 5
+}
+.textContainer{
+    font-size: 18pt;
+    color: rgba(255, 255, 255, 255);
+    text-align: center;
+    
+}
+/* .section:nth-child(){
+
+} */
+#r{
+    margin-top: 111px;
+}
+.xbox{
+    font-size: 18px;
+    color: rgba(85, 82, 82, 255);
+    text-align: left;
+    border-bottom: 7px  solid rgb(0, 170, 113);
+    padding-bottom: 35px;
+}
+
+.img{
+    width: 350px;
+    height: 262px;
+}
+.ps{
+    width: 350px;
+    font-size: 18px;
+    color: rgba(85, 82, 82, 255);
+    text-align: left;
+    
+}
+.pc{
+    width: 350px;
+    font-size: 18px;
+    color: rgba(85, 82, 82, 255);
+    text-align: left;
+    margin-top: 29px;
+}
+button{
+    background-image: url(./Rectangle\ 36@1X.png);
+    width: 159px;
+    height: 51px;
+    
+    
+}
+
+.nintendo{
+    float: center;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 81px;
+}
+footer{
+ text-align: center;
+}
+.list .box:hover{
+    background-color:  rgb(22, 177, 86);
+}
