@@ -1,0 +1,141 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* outline: 2px solid red;*/
+}
+
+.titl{
+    font-family: "title";
+    font-size: 26px;
+    color: yellow;
+}
+@font-face{
+    font-family: "title";
+    src: url(./fonts/Wisdom\ Script\ AJ.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: "frog";
+    src: url(./fonts/Nexa\ Slab\ Bold.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+li{
+    display: inline-block;
+    margin-right: 40px;
+
+}
+li:nth-last-child(){
+    margin: 0;
+}
+.crop{
+    margin: 0;
+}
+
+.navigation{
+    display: inline-block;
+    float: right;
+}
+.title{
+    display: inline-block;
+}
+a{
+    color: black;
+    font-family: "frog";
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+}
+.Gtitle{
+    font-size: 40px;
+    color: rgba(34, 34, 34, 255);
+    text-align: center;
+    margin-top: 127px;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.jig{
+    font-size: 16px;
+    color: rgba(119, 119, 119, 255);
+    text-align: center;
+}
+section{
+    display: inline-block;
+    text-align: center;
+    margin-right: 250px;
+    margin-top: 80px;
+}
+
+.imgf{
+    border: 5px solid yellow;
+    padding: 14px;
+    border-radius: 100px;
+    
+}
+h4{
+    font-size: 18px;
+    color: rgba(34, 34, 34, 255);
+    text-align: center;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#ghost{
+    margin: 0;
+}
+
+article{
+    
+    text-align: center;
+}
+.gtx{
+    width: 274px;
+    height: 57px;
+    font-size: 14pt;
+    color: rgba(119, 119, 119, 255);
+    text-align: center;
+}
+.rtx{
+    font-size: 40px;
+    color: rgba(34, 34, 34, 255);
+    text-align: center;
+    margin-top: 127px;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+footer{
+    background-image: url(./img/Background@1X.png);
+    outline: 1px solid black;
+}
+#amd{
+    
+    color: white;
+}
+.frog{
+    outline: 1px solid black;
+}
+.wolf{
+    width: 455px;
+    height: 50px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+.wol{
+    width: 455px;
+    height: 210px;
+    
+}
+.svd{
+    text-align: right;
+    display: inline-block;
+}
+.akal{
+    text-align: end;    
+}
+.tg{
+    width: 240px;
+    height: 66px;
+    background-color: yellow;
+    color: white;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
