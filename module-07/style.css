@@ -10,6 +10,9 @@
     font-size: 26px;
     color: yellow;
 }
+.titl:hover{
+    color: black;
+}
 @font-face{
     font-family: "title";
     src: url(./fonts/Wisdom\ Script\ AJ.otf);
@@ -56,10 +59,16 @@ a:hover{
     margin-top: 127px;
     font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+.Gtitle:hover{
+    color: yellow;
+}
 .jig{
     font-size: 16px;
     color: rgba(119, 119, 119, 255);
     text-align: center;
+}
+.jig:hover{
+    color: black;
 }
 section{
     display: inline-block;
@@ -94,6 +103,9 @@ article{
     font-size: 14pt;
     color: rgba(119, 119, 119, 255);
     text-align: center;
+}
+.gtx:hover{
+    color: black;
 }
 .rtx{
     font-size: 40px;
@@ -138,4 +150,14 @@ footer{
     color: white;
     font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 18px;
+    text-align: center;
+}
+.wraper{
+    display: flex;
+}
+.ji{
+    display: block;
+}
+.button{
+    text-align: center;
 }
